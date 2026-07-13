@@ -1,6 +1,6 @@
 # 📰 Fake News Detection using Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Python](https://img.shields.io/badge/Python-3.12+-blue)
 ![Flask](https://img.shields.io/badge/Flask-Web%20Application-black)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-orange)
 ![NLP](https://img.shields.io/badge/NLP-GloVe-green)
